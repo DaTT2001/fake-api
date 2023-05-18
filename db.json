@@ -1,5 +1,18 @@
 {
     "todos":[
-        
+        {
+            "id": "b928c6ba-12c1-46f3-a106-3b8662c70320",
+            "title": "quét nhà",
+            "timestamp": 1685858940000,
+            "isActive": true,
+            "isCompleted": false
+          },
+          {
+            "id": "VpHNC_w",
+            "title": "rửa bát",
+            "isCompleted": false,
+            "isActive": true,
+            "timestamp": 1685081340000
+          }
     ]
 }
